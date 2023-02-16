@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Résvisions Capisen</title>
+    <link rel="icon" type="image/png" href="images/icon.png" />
+
+    <!-- CSS link -->
+    <link rel="stylesheet" type='text/css' href="./css/style.css" media="screen and (min-device-width: 700px)" >
+    <link rel='stylesheet' type='text/css' media='screen and (max-device-width: 700px)' href='./css/mobile.css' />
+
+    <!-- JS Scripts -->
+    <script src="js/script.js" defer></script>
+    <script src="js/data.js"></script>
+
+</head>
+
+<body>
+    <div class="main-content qa">
+        <div id="logo-top">
+            <img id="logo-capi" src="images/logo.png">
+        </div>
+
+        <div id="question-number"></div>
+
+        <div id="question"></div>
+
+        <div id="answer" hidden></div>
+        <div id="answer-none"></div>
+
+    </div>
+    <div class="main-content">
+        <div class="buttons">
+            <div id="up">
+                <button class="btn-hover color-11" onclick="down()"> < </button>
+            </div>
+
+            <div id="button-answer">
+                <button class="btn-hover color-11" onclick="revealAnswear()">Réponse</button>
+            </div>
+
+            <div id="down">
+                <button class="btn-hover color-11" onclick="up()"> > </button>
+            </div>
+        </div>
+</body>
+
+
+</html>
