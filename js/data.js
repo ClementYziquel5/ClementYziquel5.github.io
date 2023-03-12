@@ -1,7 +1,7 @@
 /* 
 
-Pour ajouter des questions à la fin du fichier:
-,{
+Pour ajouter des questions, il suffit de copier-coller le bloc ci-dessous et de le remplir avec les bonnes informations.
+{
     "question": "xxx",
     "reponse": "xxx"
 }
