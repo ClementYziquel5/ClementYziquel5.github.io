@@ -107,7 +107,7 @@ let data = [{
     },
     {
         "question": "Quelle est la valeur du SMIC horaire actuellement ? ",
-        "reponse": 10.57
+        "reponse": 11.27
     },
     {
         "question": "Quelles sont les valeurs de la JE ? ",
@@ -307,7 +307,7 @@ let data = [{
     },
     {
         "question": "De combien est la base URSAFF ?",
-        "reponse": 42.28
+        "reponse": 45.08
     },
     {
         "question": "Comment on calcul l'assiette de cotisation ?",
@@ -395,6 +395,6 @@ let data = [{
     },
     {
         "question": "Qui est la future trésorière ?",
-        "reponse": "Sophie Saliou"
+        "reponse": "Louise LE MOUEL"
     }
 ]
