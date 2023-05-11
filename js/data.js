@@ -8,7 +8,6 @@ Pour ajouter des questions, il suffit de copier-coller le bloc ci-dessous et de 
 
 */
 
-
 let data = [{
         "question": "De quand date la lettre de Bérégovoy ? ",
         "reponse": 1984
